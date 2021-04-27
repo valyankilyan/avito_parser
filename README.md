@@ -11,7 +11,7 @@
 ### Перед запуском:
 
 - Установить все библиотеки  
-`pip3 install -r requirenments.txt`
+`pip3 install -r requirements.txt`
 
 - Сохранить странички в папочку pages
 
